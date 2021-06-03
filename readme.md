@@ -10,5 +10,8 @@
 - math Module
 - time Module
 
+<br>
 
+The snapshots of Cars are to Stored in a Folder named "Dataset" and then the program will be called whenever a Car is detected by sensors of Parkade
+<br>
  The following project may be implemented on a platform that support Python programming.
