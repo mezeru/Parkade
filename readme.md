@@ -1,19 +1,15 @@
-# Parkade
+# Parkade - Automated Parking System
+## Introduction
+Parkade is an automated parking system developed as a course project for Data Mining. The aim of this project is to create a program that can identify when a car enters and leaves a parking lot and calculate the fare accordingly. The system utilizes computer vision techniques to detect cars and process their entry and exit times.
 
-## This is the Course Project for Data Mining 
+# Requirements
+To run the Parkade program, you need a platform that supports Python programming. The following modules are required:
 
-## The AIM of this Project is to Help Create an Automated Program That identifies when a Car enters and leaves a parking lot and calculates the fare accordingly.
-
-### The Modules Used for this Project are :
 - os Module
-- cv2 Module
+- cv2 Module (OpenCV)
 - numpy Module
 - math Module
 - random Module
 - datetime Module
-- math Module
 - time Module
-
-## The snapshots of Cars are to Stored in a Folder named "Dataset" and then the program will be called whenever a Car is detected by sensors of Parkade
-
-The following project may be implemented on a platform that support Python programming.
+Make sure you have these modules installed on your Python environment before running the program.
